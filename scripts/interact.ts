@@ -2,10 +2,10 @@ import { ethers, upgrades } from "hardhat";
 async function main() {
   // const [deployer] = await ethers.getSigners()
   const agnocode = await ethers.getContractAt("AgnoCode", "0xc5954226bAF0b6CC7169A481b43B6B0a86d26E28");
-  // const agnostico = await ethers.getContractAt("Agnostico", "0xF4Ab9884cc5dBe0d596725Fb092B726B5a225641");
+  // const agnostico = await ethers.getContractAt("Agnostico", "");
 
-  // let agnocode = await upgrades.upgradeProxy("0xF587eA4206E23A10Dbc45C7d056Be12625ACd706", AgnoCode);
-  // let agnostico = await upgrades.upgradeProxy("0xF4Ab9884cc5dBe0d596725Fb092B726B5a225641", Agnostico);
+  // let agnocode = await upgrades.upgradeProxy("", AgnoCode);
+  // let agnostico = await upgrades.upgradeProxy("", Agnostico);
 
   // agnocode = await agnocode.deployed();
   // agnostico = await agnostico.deployed();
