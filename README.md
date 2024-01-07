@@ -2,7 +2,7 @@
 
 Agnostico is a protocol designed to enable easy deploying, sharing and selling smart contract codebases.
 
-This contract has been hidden with subtle bugs and severity see if you can find the errors.
+**This contract has been hidden with subtle bugs and severity see if you can find the errors.**
 
 ## How it works
 
