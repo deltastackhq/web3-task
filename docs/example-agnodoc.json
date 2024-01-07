@@ -1,0 +1,53 @@
+{
+    "name": "Regular ERC20 Token",
+    "description": "An ERC20/BEP20 token contract",
+    "image": "QmXEdvbMdpMP3PunsGPibS3UwzgAPvKSyXgNghgNVeyWNR",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "contractName",
+            "value": "FungibleToken"
+        },
+        {
+            "trait_type": "creatorAddress",
+            "value": "0×DfD46cF9aF1A52bf360065fEF6200e47B9DeFcD9"
+        },
+        {
+            "trait_type": "creatorWebsite",
+            "value": "https://agnostico…link"
+        },
+        {
+            "trait_type": "categories",
+            "value": [
+                "token",
+                "erc20",
+                "bep20"
+            ]
+        },
+        {
+            "trait_type": "deploymentVariables",
+            "value": [
+                {
+                    "name": "tokenName",
+                    "dataType": "string"
+                },
+                {
+                    "name": "tokenSymbol",
+                    "dataType": "string"
+                },
+                {
+                    "name": "decimals",
+                    "dataType": "uint256"
+                },
+                {
+                    "name": "supply",
+                    "dataType": "uint256"
+                },
+                {
+                    "name": "mintTo",
+                    "dataType": "address"
+                }
+            ]
+        }
+    ]
+}
